@@ -1,0 +1,28 @@
+24-7월-2024 23:34:05.123 WARN [main] org.apache.james.transport.mailets.remote.delivery.DelaysAndMaxRetry.getDelaysAndMaxRetry:58 - maxRetries is larger than total number of attempts specified. Increasing last delayTime with 22 attempts 
+24-7월-2024 23:34:05.126 WARN [main] org.apache.james.transport.mailets.remote.delivery.DelaysAndMaxRetry.addExtraAttemptToLastDelay:69 - Delay of 8 minutes 20 seconds is now attempted: 1 times
+24-7월-2024 23:34:05.615 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:185 - SMTP Service bound to: 0.0.0.0:25
+24-7월-2024 23:34:05.616 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configureHelloName:346 - SMTP Service is running on: SLFNKEJNSKJENFKJSDNKFJNDSFK.local
+24-7월-2024 23:34:05.616 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configureHelloName:358 - SMTP Service handler hello name is: SLFNKEJNSKJENFKJSDNKFJNDSFK.local
+24-7월-2024 23:34:05.617 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:202 - SMTP Service handler connection timeout is: 360
+24-7월-2024 23:34:05.617 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:206 - SMTP Service connection backlog is: 200
+24-7월-2024 23:34:05.618 INFO [main] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:144 - This SMTP server does not require authentication.
+24-7월-2024 23:34:05.619 INFO [main] org.apache.james.smtpserver.netty.SMTPServer.doConfigure:176 - No maximum message size is enforced for this server.
+24-7월-2024 23:34:05.807 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.init:274 - Init SMTP Service done
+24-7월-2024 23:34:05.815 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:164 - LMTP Service disabled by configuration
+24-7월-2024 23:34:05.822 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:185 - POP3 Service bound to: 0.0.0.0:110
+24-7월-2024 23:34:05.823 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configureHelloName:346 - POP3 Service is running on: SLFNKEJNSKJENFKJSDNKFJNDSFK.local
+24-7월-2024 23:34:05.823 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configureHelloName:358 - POP3 Service handler hello name is: SLFNKEJNSKJENFKJSDNKFJNDSFK.local
+24-7월-2024 23:34:05.823 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:202 - POP3 Service handler connection timeout is: 1200
+24-7월-2024 23:34:05.824 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:206 - POP3 Service connection backlog is: 200
+24-7월-2024 23:34:05.875 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.init:274 - Init POP3 Service done
+24-7월-2024 23:34:05.977 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:185 - IMAP Service bound to: 0.0.0.0:143
+24-7월-2024 23:34:05.977 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configureHelloName:346 - IMAP Service is running on: SLFNKEJNSKJENFKJSDNKFJNDSFK.local
+24-7월-2024 23:34:05.977 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configureHelloName:358 - IMAP Service handler hello name is: SLFNKEJNSKJENFKJSDNKFJNDSFK.local
+24-7월-2024 23:34:05.978 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:202 - IMAP Service handler connection timeout is: 300
+24-7월-2024 23:34:05.978 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.configure:206 - IMAP Service connection backlog is: 200
+24-7월-2024 23:34:06.035 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.destroy:297 - Dispose POP3 Service
+24-7월-2024 23:34:06.043 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.destroy:309 - Dispose POP3 Service done
+24-7월-2024 23:34:06.057 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.destroy:297 - Dispose LMTP Service
+24-7월-2024 23:34:06.057 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.destroy:309 - Dispose LMTP Service done
+24-7월-2024 23:34:06.058 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.destroy:297 - Dispose SMTP Service
+24-7월-2024 23:34:06.062 INFO [main] org.apache.james.protocols.lib.netty.AbstractConfigurableAsyncServer.destroy:309 - Dispose SMTP Service done

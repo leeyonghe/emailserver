@@ -1,0 +1,24 @@
+24-7월-2024 23:34:00.403 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:143 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+24-7월-2024 23:34:00.407 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:148 - Adding autodiscovered server 1.214.68.2
+24-7월-2024 23:34:00.407 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:148 - Adding autodiscovered server 61.41.153.2
+24-7월-2024 23:34:00.408 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:214 - DNS Server is: 1.214.68.2
+24-7월-2024 23:34:00.408 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:214 - DNS Server is: 61.41.153.2
+24-7월-2024 23:34:00.417 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:233 - Registered cache, resolver and search paths as DNSJava defaults
+24-7월-2024 23:34:42.424 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:143 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+24-7월-2024 23:34:42.429 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:148 - Adding autodiscovered server 1.214.68.2
+24-7월-2024 23:34:42.430 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:148 - Adding autodiscovered server 61.41.153.2
+24-7월-2024 23:34:42.431 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:214 - DNS Server is: 1.214.68.2
+24-7월-2024 23:34:42.432 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:214 - DNS Server is: 61.41.153.2
+24-7월-2024 23:34:42.443 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:233 - Registered cache, resolver and search paths as DNSJava defaults
+24-7월-2024 23:35:33.180 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:143 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+24-7월-2024 23:35:33.187 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:148 - Adding autodiscovered server 1.214.68.2
+24-7월-2024 23:35:33.187 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:148 - Adding autodiscovered server 61.41.153.2
+24-7월-2024 23:35:33.189 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:214 - DNS Server is: 1.214.68.2
+24-7월-2024 23:35:33.189 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:214 - DNS Server is: 61.41.153.2
+24-7월-2024 23:35:33.207 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:233 - Registered cache, resolver and search paths as DNSJava defaults
+24-7월-2024 23:36:10.735 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:143 - Autodiscovery is enabled - trying to discover your system's DNS Servers
+24-7월-2024 23:36:10.739 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:148 - Adding autodiscovered server 1.214.68.2
+24-7월-2024 23:36:10.739 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.configure:148 - Adding autodiscovered server 61.41.153.2
+24-7월-2024 23:36:10.740 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:214 - DNS Server is: 1.214.68.2
+24-7월-2024 23:36:10.741 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:214 - DNS Server is: 61.41.153.2
+24-7월-2024 23:36:10.750 INFO [main] org.apache.james.dnsservice.dnsjava.DNSJavaService.init:233 - Registered cache, resolver and search paths as DNSJava defaults

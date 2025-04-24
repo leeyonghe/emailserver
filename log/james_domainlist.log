@@ -1,0 +1,10 @@
+24-7월-2024 23:34:00.441 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.setAutoDetect:259 - Set autodetect to: true
+24-7월-2024 23:34:00.442 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.setAutoDetectIP:271 - Set autodetectIP to: true
+24-7월-2024 23:34:02.627 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.detectDomains:218 - Local host is: 127.0.0.1
+24-7월-2024 23:34:04.012 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.detectDomains:218 - Local host is: 127.0.0.1
+24-7월-2024 23:34:42.477 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.setAutoDetect:259 - Set autodetect to: true
+24-7월-2024 23:34:42.478 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.setAutoDetectIP:271 - Set autodetectIP to: true
+24-7월-2024 23:35:33.265 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.setAutoDetect:259 - Set autodetect to: true
+24-7월-2024 23:35:33.267 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.setAutoDetectIP:271 - Set autodetectIP to: true
+24-7월-2024 23:36:10.775 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.setAutoDetect:259 - Set autodetect to: true
+24-7월-2024 23:36:10.776 INFO [main] org.apache.james.domainlist.lib.AbstractDomainList.setAutoDetectIP:271 - Set autodetectIP to: true

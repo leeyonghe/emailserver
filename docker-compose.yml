@@ -1,0 +1,10 @@
+services:
+  mailer:
+    tty: true
+    container_name: mailer
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "25:25"
+      - "143:143"
